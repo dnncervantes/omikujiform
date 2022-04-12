@@ -1,0 +1,9 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.fortune {
+	background-color: #9FC4F9;
+	justify-content: center;
+	align-items: center;
+}
